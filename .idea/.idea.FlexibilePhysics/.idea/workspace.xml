@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7136ad1-5b49-4e75-b5ab-3f0376875b1d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StethDistance.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/StethDistance.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+              <folding>
+                <marker date="1532035558903" expanded="false" signature="6:90" ph="..." />
+                <marker date="1532035558903" expanded="true" signature="135:1288" ph="{...}" />
+                <marker date="1532035558903" expanded="true" signature="399:406" ph="{...}" />
+                <marker date="1532035558903" expanded="true" signature="461:928" ph="{...}" />
+                <marker date="1532035558903" expanded="true" signature="608:921" ph="{...}" />
+                <marker date="1532035558903" expanded="true" signature="628:767" ph="/* Debug.Log(actualDistance); ... */" />
+                <marker date="1532035558903" expanded="true" signature="832:893" ph="{...}" />
+                <marker date="1532035558903" expanded="true" signature="936:1280" ph="/* function restrinctPos(posStart, Vector2, newPos:Vector2) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MeshInfo.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/TransformEx/Scripts/MeshInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VRTK_InteractGrab.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractGrab.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="177" column="33" selection-start-line="177" selection-start-column="33" selection-end-line="177" selection-end-column="33" />
+              <folding>
+                <marker date="1499327777000" expanded="false" signature="63:105" ph="..." />
+                <marker date="1499327777000" expanded="true" signature="111:2226" ph="/// The Interact Grab script is attached to a Controller object and requires the `VRTK_ControllerEvents` script t ... " />
+                <marker date="1499327777000" expanded="true" signature="2347:28321" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="4454:4543" ph="/// Emitted when the grab button is pressed. ... " />
+                <marker date="1499327777000" expanded="true" signature="4626:4716" ph="/// Emitted when the grab button is released. ... " />
+                <marker date="1499327777000" expanded="true" signature="4801:4899" ph="/// Emitted when a grab of a valid object is started. ... " />
+                <marker date="1499327777000" expanded="true" signature="4995:5083" ph="/// Emitted when a valid object is grabbed. ... " />
+                <marker date="1499327777000" expanded="true" signature="5174:5274" ph="/// Emitted when a ungrab of a valid object is started. ... " />
+                <marker date="1499327777000" expanded="true" signature="5372:5480" ph="/// Emitted when a valid object is released from being grabbed. ... " />
+                <marker date="1499327777000" expanded="true" signature="6286:6481" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="6312:6471" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="6577:6752" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="6650:6742" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="6843:7008" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="6911:6998" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7106:7285" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7181:7275" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7378:7547" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7448:7537" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7630:7765" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7683:7755" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7849:7986" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7903:7976" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="7996:8236" ph="/// The IsGrabButtonPressed method determines whether the current grab alias button is being pressed down. ... " />
+                <marker date="1499327777000" expanded="true" signature="8286:8338" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="8348:8713" ph="/// The ForceRelease method will force the controller to stop grabbing the currently grabbed object. ... " />
+                <marker date="1499327777000" expanded="true" signature="8796:8878" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="8888:9069" ph="/// The AttemptGrab method will attempt to grab the currently touched object without needing to press the grab bu ... " />
+                <marker date="1499327777000" expanded="true" signature="9111:9164" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="9174:9412" ph="/// The GetGrabbedObject method returns the current object being grabbed by the controller. ... " />
+                <marker date="1499327777000" expanded="true" signature="9465:9519" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="9559:10256" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="9915:10161" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="10299:10636" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="10475:10586" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="10680:11230" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="10754:10916" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="11109:11220" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="11274:11381" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="11422:11604" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="11708:11768" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="11840:12430" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="11899:12135" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="12184:12420" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="12538:13039" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="12582:13029" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="12846:13015" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="13149:13632" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="13193:13622" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="13439:13608" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="13695:14640" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="13874:14202" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="14359:14630" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="14698:15366" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="14758:15262" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="15043:15248" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="15279:15356" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="15421:15975" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="15481:15965" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="15742:15831" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="15852:15951" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="16034:16728" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="16228:16718" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="16845:17744" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="17089:17283" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="17328:17734" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="17480:17720" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="17810:18096" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18163:18437" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18202:18401" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18533:18823" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18630:18712" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18729:18813" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18896:19520" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="18945:19352" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="19177:19338" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="19382:19510" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="19572:20202" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="19716:20192" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="20296:21020" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="20432:20702" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="20573:20664" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="21116:21550" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="21252:21446" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="21616:21879" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="21694:21823" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="21965:23006" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="22039:22879" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="22335:22865" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="22404:22556" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="23065:23343" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="23243:23299" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="23396:23576" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="23502:23566" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="23637:23981" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="23686:23946" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24053:24412" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24124:24402" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24286:24388" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24464:24775" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24572:24650" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24667:24765" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="24851:25088" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="25180:25384" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="25460:26159" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="25816:26110" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="25914:26096" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="26204:26522" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="26253:26486" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="26577:26762" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="26681:26752" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="26856:27002" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27099:27250" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27314:27453" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27371:27443" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27514:27884" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27622:27874" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27750:27860" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="27940:28315" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="28002:28305" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="28066:28291" ph="{...}" />
+                <marker date="1499327777000" expanded="true" signature="28177:28273" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VRTK_InteractableObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractableObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6135">
+              <caret line="415" column="25" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="25" />
+              <folding>
+                <marker date="1499327792000" expanded="true" signature="56:56904" ph="{...}" />
+                <marker date="1499327792000" expanded="false" signature="69:264" ph="..." />
+                <marker date="1499327792000" expanded="true" signature="270:439" ph="/// Event Payload ... " />
+                <marker date="1499327792000" expanded="true" signature="485:542" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="548:725" ph="/// Event Payload ... " />
+                <marker date="1499327792000" expanded="true" signature="834:2049" ph="/// The Interactable Object script is attached to any game object that is required to be interacted with (e.g. vi ... " />
+                <marker date="1499327792000" expanded="true" signature="2182:56902" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="2197:2537" ph="/// Allowed controller type. ... " />
+                <marker date="1499327792000" expanded="true" signature="2575:2657" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="2667:3128" ph="/// The types of valid situations that the object can be released from grab. ... " />
+                <marker date="1499327792000" expanded="true" signature="3163:3263" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="7925:8029" ph="/// Emitted when another object touches the current object. ... " />
+                <marker date="1499327792000" expanded="true" signature="8117:8230" ph="/// Emitted when the other object stops touching the current object. ... " />
+                <marker date="1499327792000" expanded="true" signature="8320:8442" ph="/// Emitted when another object grabs the current object (e.g. a controller). ... " />
+                <marker date="1499327792000" expanded="true" signature="8530:8643" ph="/// Emitted when the other object stops grabbing the current object. ... " />
+                <marker date="1499327792000" expanded="true" signature="8733:8854" ph="/// Emitted when another object uses the current object (e.g. a controller). ... " />
+                <marker date="1499327792000" expanded="true" signature="8939:9049" ph="/// Emitted when the other object stops using the current object. ... " />
+                <marker date="1499327792000" expanded="true" signature="9136:9233" ph="/// Emitted when the object enters a snap drop zone. ... " />
+                <marker date="1499327792000" expanded="true" signature="9333:9430" ph="/// Emitted when the object exists a snap drop zone. ... " />
+                <marker date="1499327792000" expanded="true" signature="9529:9630" ph="/// Emitted when the object gets snapped to a drop zone. ... " />
+                <marker date="1499327792000" expanded="true" signature="9728:9833" ph="/// Emitted when the object gets unsnapped from a drop zone. ... " />
+                <marker date="1499327792000" expanded="true" signature="9936:10059" ph="/// The current using state of the object. `0` not being used, `1` being used. ... " />
+                <marker date="1499327792000" expanded="true" signature="10130:10280" ph="/// isKinematic is a pass through to the `isKinematic` getter/setter on the object's rigidbody component. ... " />
+                <marker date="1499327792000" expanded="true" signature="10312:10732" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="10338:10536" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="10395:10493" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="10552:10722" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="10609:10708" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12043:12194" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12104:12184" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12284:12439" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12347:12429" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12527:12678" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12588:12668" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12768:12923" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="12831:12913" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13008:13153" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13066:13143" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13240:13389" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13300:13379" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13489:13664" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13562:13654" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13763:13936" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="13835:13926" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="14034:14205" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="14105:14195" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="14307:14486" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="14382:14476" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="14587:14725" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="14735:14955" ph="/// The IsTouched method is used to determine if the object is currently being touched. ... " />
+                <marker date="1499327792000" expanded="true" signature="14995:15063" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="15073:15455" ph="/// The IsGrabbed method is used to determine if the object is currently being grabbed. ... " />
+                <marker date="1499327792000" expanded="true" signature="15522:15744" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="15596:15686" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="15754:16122" ph="/// The IsUsing method is used to determine if the object is currently being used. ... " />
+                <marker date="1499327792000" expanded="true" signature="16184:16388" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="16249:16336" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="16398:16714" ph="/// The StartTouching method is called automatically when the object is touched initially. It is also a virtual m ... " />
+                <marker date="1499327792000" expanded="true" signature="17049:17195" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="17205:17521" ph="/// The StartTouching method is called automatically when the object is touched initially. It is also a virtual m ... " />
+                <marker date="1499327792000" expanded="true" signature="17612:18224" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="17799:18214" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="17947:18200" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="18234:18557" ph="/// The StopTouching method is called automatically when the object has stopped being touched. It is also a virtu ... " />
+                <marker date="1499327792000" expanded="true" signature="18892:19039" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="19049:19372" ph="/// The StopTouching method is called automatically when the object has stopped being touched. It is also a virtu ... " />
+                <marker date="1499327792000" expanded="true" signature="19463:19978" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="19710:19968" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="19988:20298" ph="/// The Grabbed method is called automatically when the object is grabbed initially. It is also a virtual method  ... " />
+                <marker date="1499327792000" expanded="true" signature="20614:20753" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="20763:21073" ph="/// The Grabbed method is called automatically when the object is grabbed initially. It is also a virtual method  ... " />
+                <marker date="1499327792000" expanded="true" signature="21157:21690" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="21377:21471" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="21488:21584" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="21700:22020" ph="/// The Ungrabbed method is called automatically when the object has stopped being grabbed. It is also a virtual  ... " />
+                <marker date="1499327792000" expanded="true" signature="22345:22488" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="22498:22818" ph="/// The Ungrabbed method is called automatically when the object has stopped being grabbed. It is also a virtual  ... " />
+                <marker date="1499327792000" expanded="true" signature="22905:23637" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="23222:23412" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="23429:23528" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="23647:23951" ph="/// The StartUsing method is called automatically when the object is used initially. It is also a virtual method  ... " />
+                <marker date="1499327792000" expanded="true" signature="24266:24401" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="24411:24715" ph="/// The StartUsing method is called automatically when the object is used initially. It is also a virtual method  ... " />
+                <marker date="1499327792000" expanded="true" signature="24798:25235" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="25025:25089" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="25245:25556" ph="/// The StopUsing method is called automatically when the object has stopped being used. It is also a virtual met ... " />
+                <marker date="1499327792000" expanded="true" signature="25871:26007" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="26017:26328" ph="/// The StopUsing method is called automatically when the object has stopped being used. It is also a virtual met ... " />
+                <marker date="1499327792000" expanded="true" signature="26411:26736" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="26746:27068" ph="/// The ToggleHighlight method is used to turn on or off the colour highlight of the object. ... " />
+                <marker date="1499327792000" expanded="true" signature="27125:27544" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="27246:27534" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="27304:27410" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="27431:27520" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="27554:27683" ph="/// The ResetHighlighter method is used to reset the currently attached highlighter. ... " />
+                <marker date="1499327792000" expanded="true" signature="27730:27867" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="27775:27857" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="27877:28244" ph="/// The PauseCollisions method temporarily pauses all collisions on the object at grab time by removing the objec ... " />
+                <marker date="1499327792000" expanded="true" signature="28301:28593" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="28339:28583" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="28432:28517" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="28603:28765" ph="/// The ZeroVelocity method resets the velocity and angular velocity to zero on the rigidbody attached to the obj ... " />
+                <marker date="1499327792000" expanded="true" signature="28808:29028" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="28857:29018" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="29038:29194" ph="/// The SaveCurrentState method stores the existing object parent and the object's rigidbody kinematic setting. ... " />
+                <marker date="1499327792000" expanded="true" signature="29241:29683" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="29307:29673" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="29408:29499" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="29543:29659" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="29693:29972" ph="/// The GetTouchingObjects method is used to return the collecetion of valid game objects that are currently touc ... " />
+                <marker date="1499327792000" expanded="true" signature="30033:30089" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="30099:30337" ph="/// The GetGrabbingObject method is used to return the game object that is currently grabbing this object. ... " />
+                <marker date="1499327792000" expanded="true" signature="30391:30473" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="30483:30826" ph="/// The GetSecondaryGrabbingObject method is used to return the game object that is currently being used to influ ... " />
+                <marker date="1499327792000" expanded="true" signature="30889:30985" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="30995:31222" ph="/// The GetUsingObject method is used to return the GameObject that is currently using this object. ... " />
+                <marker date="1499327792000" expanded="true" signature="31273:31336" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="31346:31600" ph="/// The GetUsingScript method is used to return the InteractUse script that is currently using this object. ... " />
+                <marker date="1499327792000" expanded="true" signature="31657:31709" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="31719:32331" ph="/// The IsValidInteractableController method is used to check to see if a controller is allowed to perform an int ... " />
+                <marker date="1499327792000" expanded="true" signature="32453:32835" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="32522:32579" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="32845:33127" ph="/// The ForceStopInteracting method forces the object to no longer be interacted with and will cause a controller ... " />
+                <marker date="1499327792000" expanded="true" signature="33178:33555" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="33234:33369" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="33434:33545" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="33565:33741" ph="/// The ForceStopSecondaryGrabInteraction method forces the object to no longer be influenced by the second contr ... " />
+                <marker date="1499327792000" expanded="true" signature="33805:34044" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="33925:34034" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="34054:34347" ph="/// The RegisterTeleporters method is used to find all objects that have a teleporter script and register the obj ... " />
+                <marker date="1499327792000" expanded="true" signature="34397:34480" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="34490:34647" ph="/// The UnregisterTeleporters method is used to unregister all teleporter events that are active on this object. ... " />
+                <marker date="1499327792000" expanded="true" signature="34699:35005" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="34803:34995" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="35015:35138" ph="/// the StoreLocalScale method saves the current transform local scale values. ... " />
+                <marker date="1499327792000" expanded="true" signature="35184:35259" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="35269:35806" ph="/// The ToggleSnapDropZone method is used to set the state of whether the interactable object is in a Snap Drop Z ... " />
+                <marker date="1499327792000" expanded="true" signature="35897:36412" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="35973:36160" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="36177:36402" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="36422:36717" ph="/// The IsInSnapDropZone method determines whether the interactable object is currently snapped to a drop zone. ... " />
+                <marker date="1499327792000" expanded="true" signature="36764:36826" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="36836:37210" ph="/// The SetSnapDropZoneHover method sets whether the interactable object is currently being hovered over a valid  ... " />
+                <marker date="1499327792000" expanded="true" signature="37303:38076" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="37336:37658" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="37425:37644" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="37675:37998" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="37763:37984" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="38086:38350" ph="/// The GetStoredSnapDropZone method returns the snap drop zone that the interactable object is currently snapped ... " />
+                <marker date="1499327792000" expanded="true" signature="38415:38474" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="38484:38773" ph="/// The IsDroppable method returns whether the object can be dropped or not in it's current situation. ... " />
+                <marker date="1499327792000" expanded="true" signature="38815:39192" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="38856:39156" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="39202:39630" ph="/// The IsSwappable method returns whether the object can be grabbed with one controller and then swapped to anot ... " />
+                <marker date="1499327792000" expanded="true" signature="39672:39798" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="39808:40159" ph="/// The PerformSecondaryAction method returns whether the object has a secondary action that can be performed whe ... " />
+                <marker date="1499327792000" expanded="true" signature="40212:40410" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="40420:40683" ph="/// The ResetIgnoredColliders method is used to clear any stored ignored colliders in case the `Ignored Colliders ... " />
+                <marker date="1499327792000" expanded="true" signature="40735:41668" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="40912:41613" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="40982:41599" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="41165:41581" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="41261:41559" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="41366:41533" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="41708:42097" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="41828:41931" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="41988:42087" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42140:42433" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42288:42353" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42477:42821" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42558:42672" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42705:42811" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42867:43194" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="42949:43040" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="43092:43184" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="43235:43636" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="43401:43487" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="43539:43626" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="43646:43905" ph="/// determines if this object is currently idle ... " />
+                <marker date="1499327792000" expanded="true" signature="43945:44028" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44073:44208" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44128:44198" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44260:44708" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44316:44436" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44483:44587" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44619:44698" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44764:45321" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="44855:45311" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="45048:45230" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="45396:46174" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="45501:46164" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="45724:46013" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="45813:45995" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46049:46150" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46236:46350" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46279:46340" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46407:46837" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46482:46827" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46625:46753" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46901:47096" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="46977:47086" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="47147:47377" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="47258:47367" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="47465:47933" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="47514:47605" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="47807:47923" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="48023:48676" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="48099:48666" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="48371:48652" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="48811:49295" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="49068:49252" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="49388:49841" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="49464:49831" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="49720:49817" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="49893:50145" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="50046:50135" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="50225:50648" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="50448:50638" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="50759:51123" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="51203:51719" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="51535:51709" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="51770:52151" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="51836:51912" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="51929:51992" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="52047:52141" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="52242:52406" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="52292:52396" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="52496:52903" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="52643:52893" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="52976:53332" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="53130:53322" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="53402:53811" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="53449:53801" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="53607:53787" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="53666:53769" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="53885:53995" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54054:54285" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54105:54157" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54344:54715" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54414:54705" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54564:54691" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54774:55185" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="54941:55175" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="55241:55552" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="55351:55542" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="55604:56521" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="55663:56210" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="56061:56169" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="56269:56356" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="56572:56896" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="56619:56886" ph="{...}" />
+                <marker date="1499327792000" expanded="true" signature="56779:56872" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ungra</find>
+      <find>getgrabb</find>
+      <find>Ungrabbed</find>
+      <find>grabbedObject</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractGrab.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StethDistance.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TransformEx/Scripts/MeshInfo.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/StethDistance.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-801" />
+    <option name="y" value="211" />
+    <option name="width" value="2560" />
+    <option name="height" value="1271" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="FlexibilePhysics" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7136ad1-5b49-4e75-b5ab-3f0376875b1d" name="Default" comment="" />
+      <created>1532033234562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532033234562</updated>
+      <workItem from="1532033236341" duration="2919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2919000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33125" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/StethDistance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <marker date="1532035558903" expanded="false" signature="6:90" ph="..." />
+            <marker date="1532035558903" expanded="true" signature="135:1288" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="399:406" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="461:928" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="608:921" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="628:767" ph="/* Debug.Log(actualDistance); ... */" />
+            <marker date="1532035558903" expanded="true" signature="832:893" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="936:1280" ph="/* function restrinctPos(posStart, Vector2, newPos:Vector2) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractGrab.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="177" column="33" selection-start-line="177" selection-start-column="33" selection-end-line="177" selection-end-column="33" />
+          <folding>
+            <marker date="1499327777000" expanded="false" signature="63:105" ph="..." />
+            <marker date="1499327777000" expanded="true" signature="111:2226" ph="/// The Interact Grab script is attached to a Controller object and requires the `VRTK_ControllerEvents` script t ... " />
+            <marker date="1499327777000" expanded="true" signature="2347:28321" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="4454:4543" ph="/// Emitted when the grab button is pressed. ... " />
+            <marker date="1499327777000" expanded="true" signature="4626:4716" ph="/// Emitted when the grab button is released. ... " />
+            <marker date="1499327777000" expanded="true" signature="4801:4899" ph="/// Emitted when a grab of a valid object is started. ... " />
+            <marker date="1499327777000" expanded="true" signature="4995:5083" ph="/// Emitted when a valid object is grabbed. ... " />
+            <marker date="1499327777000" expanded="true" signature="5174:5274" ph="/// Emitted when a ungrab of a valid object is started. ... " />
+            <marker date="1499327777000" expanded="true" signature="5372:5480" ph="/// Emitted when a valid object is released from being grabbed. ... " />
+            <marker date="1499327777000" expanded="true" signature="6286:6481" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6312:6471" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6577:6752" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6650:6742" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6843:7008" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6911:6998" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7106:7285" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7181:7275" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7378:7547" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7448:7537" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7630:7765" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7683:7755" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7849:7986" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7903:7976" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7996:8236" ph="/// The IsGrabButtonPressed method determines whether the current grab alias button is being pressed down. ... " />
+            <marker date="1499327777000" expanded="true" signature="8286:8338" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="8348:8713" ph="/// The ForceRelease method will force the controller to stop grabbing the currently grabbed object. ... " />
+            <marker date="1499327777000" expanded="true" signature="8796:8878" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="8888:9069" ph="/// The AttemptGrab method will attempt to grab the currently touched object without needing to press the grab bu ... " />
+            <marker date="1499327777000" expanded="true" signature="9111:9164" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="9174:9412" ph="/// The GetGrabbedObject method returns the current object being grabbed by the controller. ... " />
+            <marker date="1499327777000" expanded="true" signature="9465:9519" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="9559:10256" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="9915:10161" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10299:10636" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10475:10586" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10680:11230" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10754:10916" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11109:11220" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11274:11381" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11422:11604" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11708:11768" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11840:12430" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11899:12135" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12184:12420" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12538:13039" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12582:13029" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12846:13015" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13149:13632" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13193:13622" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13439:13608" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13695:14640" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13874:14202" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="14359:14630" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="14698:15366" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="14758:15262" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15043:15248" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15279:15356" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15421:15975" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15481:15965" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15742:15831" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15852:15951" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="16034:16728" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="16228:16718" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="16845:17744" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17089:17283" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17328:17734" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17480:17720" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17810:18096" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18163:18437" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18202:18401" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18533:18823" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18630:18712" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18729:18813" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18896:19520" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18945:19352" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19177:19338" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19382:19510" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19572:20202" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19716:20192" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="20296:21020" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="20432:20702" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="20573:20664" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21116:21550" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21252:21446" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21616:21879" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21694:21823" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21965:23006" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="22039:22879" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="22335:22865" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="22404:22556" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23065:23343" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23243:23299" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23396:23576" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23502:23566" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23637:23981" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23686:23946" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24053:24412" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24124:24402" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24286:24388" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24464:24775" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24572:24650" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24667:24765" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24851:25088" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25180:25384" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25460:26159" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25816:26110" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25914:26096" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26204:26522" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26253:26486" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26577:26762" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26681:26752" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26856:27002" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27099:27250" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27314:27453" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27371:27443" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27514:27884" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27622:27874" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27750:27860" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27940:28315" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="28002:28305" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="28066:28291" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="28177:28273" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6135">
+          <caret line="415" column="25" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="25" />
+          <folding>
+            <marker date="1499327792000" expanded="true" signature="56:56904" ph="{...}" />
+            <marker date="1499327792000" expanded="false" signature="69:264" ph="..." />
+            <marker date="1499327792000" expanded="true" signature="270:439" ph="/// Event Payload ... " />
+            <marker date="1499327792000" expanded="true" signature="485:542" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="548:725" ph="/// Event Payload ... " />
+            <marker date="1499327792000" expanded="true" signature="834:2049" ph="/// The Interactable Object script is attached to any game object that is required to be interacted with (e.g. vi ... " />
+            <marker date="1499327792000" expanded="true" signature="2182:56902" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="2197:2537" ph="/// Allowed controller type. ... " />
+            <marker date="1499327792000" expanded="true" signature="2575:2657" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="2667:3128" ph="/// The types of valid situations that the object can be released from grab. ... " />
+            <marker date="1499327792000" expanded="true" signature="3163:3263" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="7925:8029" ph="/// Emitted when another object touches the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="8117:8230" ph="/// Emitted when the other object stops touching the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="8320:8442" ph="/// Emitted when another object grabs the current object (e.g. a controller). ... " />
+            <marker date="1499327792000" expanded="true" signature="8530:8643" ph="/// Emitted when the other object stops grabbing the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="8733:8854" ph="/// Emitted when another object uses the current object (e.g. a controller). ... " />
+            <marker date="1499327792000" expanded="true" signature="8939:9049" ph="/// Emitted when the other object stops using the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="9136:9233" ph="/// Emitted when the object enters a snap drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9333:9430" ph="/// Emitted when the object exists a snap drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9529:9630" ph="/// Emitted when the object gets snapped to a drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9728:9833" ph="/// Emitted when the object gets unsnapped from a drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9936:10059" ph="/// The current using state of the object. `0` not being used, `1` being used. ... " />
+            <marker date="1499327792000" expanded="true" signature="10130:10280" ph="/// isKinematic is a pass through to the `isKinematic` getter/setter on the object's rigidbody component. ... " />
+            <marker date="1499327792000" expanded="true" signature="10312:10732" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10338:10536" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10395:10493" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10552:10722" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10609:10708" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12043:12194" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12104:12184" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12284:12439" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12347:12429" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12527:12678" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12588:12668" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12768:12923" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12831:12913" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13008:13153" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13066:13143" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13240:13389" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13300:13379" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13489:13664" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13562:13654" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13763:13936" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13835:13926" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14034:14205" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14105:14195" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14307:14486" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14382:14476" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14587:14725" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14735:14955" ph="/// The IsTouched method is used to determine if the object is currently being touched. ... " />
+            <marker date="1499327792000" expanded="true" signature="14995:15063" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="15073:15455" ph="/// The IsGrabbed method is used to determine if the object is currently being grabbed. ... " />
+            <marker date="1499327792000" expanded="true" signature="15522:15744" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="15596:15686" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="15754:16122" ph="/// The IsUsing method is used to determine if the object is currently being used. ... " />
+            <marker date="1499327792000" expanded="true" signature="16184:16388" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="16249:16336" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="16398:16714" ph="/// The StartTouching method is called automatically when the object is touched initially. It is also a virtual m ... " />
+            <marker date="1499327792000" expanded="true" signature="17049:17195" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="17205:17521" ph="/// The StartTouching method is called automatically when the object is touched initially. It is also a virtual m ... " />
+            <marker date="1499327792000" expanded="true" signature="17612:18224" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="17799:18214" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="17947:18200" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="18234:18557" ph="/// The StopTouching method is called automatically when the object has stopped being touched. It is also a virtu ... " />
+            <marker date="1499327792000" expanded="true" signature="18892:19039" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="19049:19372" ph="/// The StopTouching method is called automatically when the object has stopped being touched. It is also a virtu ... " />
+            <marker date="1499327792000" expanded="true" signature="19463:19978" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="19710:19968" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="19988:20298" ph="/// The Grabbed method is called automatically when the object is grabbed initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="20614:20753" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="20763:21073" ph="/// The Grabbed method is called automatically when the object is grabbed initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="21157:21690" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="21377:21471" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="21488:21584" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="21700:22020" ph="/// The Ungrabbed method is called automatically when the object has stopped being grabbed. It is also a virtual  ... " />
+            <marker date="1499327792000" expanded="true" signature="22345:22488" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="22498:22818" ph="/// The Ungrabbed method is called automatically when the object has stopped being grabbed. It is also a virtual  ... " />
+            <marker date="1499327792000" expanded="true" signature="22905:23637" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="23222:23412" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="23429:23528" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="23647:23951" ph="/// The StartUsing method is called automatically when the object is used initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="24266:24401" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="24411:24715" ph="/// The StartUsing method is called automatically when the object is used initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="24798:25235" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="25025:25089" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="25245:25556" ph="/// The StopUsing method is called automatically when the object has stopped being used. It is also a virtual met ... " />
+            <marker date="1499327792000" expanded="true" signature="25871:26007" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="26017:26328" ph="/// The StopUsing method is called automatically when the object has stopped being used. It is also a virtual met ... " />
+            <marker date="1499327792000" expanded="true" signature="26411:26736" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="26746:27068" ph="/// The ToggleHighlight method is used to turn on or off the colour highlight of the object. ... " />
+            <marker date="1499327792000" expanded="true" signature="27125:27544" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27246:27534" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27304:27410" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27431:27520" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27554:27683" ph="/// The ResetHighlighter method is used to reset the currently attached highlighter. ... " />
+            <marker date="1499327792000" expanded="true" signature="27730:27867" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27775:27857" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27877:28244" ph="/// The PauseCollisions method temporarily pauses all collisions on the object at grab time by removing the objec ... " />
+            <marker date="1499327792000" expanded="true" signature="28301:28593" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28339:28583" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28432:28517" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28603:28765" ph="/// The ZeroVelocity method resets the velocity and angular velocity to zero on the rigidbody attached to the obj ... " />
+            <marker date="1499327792000" expanded="true" signature="28808:29028" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28857:29018" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29038:29194" ph="/// The SaveCurrentState method stores the existing object parent and the object's rigidbody kinematic setting. ... " />
+            <marker date="1499327792000" expanded="true" signature="29241:29683" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29307:29673" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29408:29499" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29543:29659" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29693:29972" ph="/// The GetTouchingObjects method is used to return the collecetion of valid game objects that are currently touc ... " />
+            <marker date="1499327792000" expanded="true" signature="30033:30089" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="30099:30337" ph="/// The GetGrabbingObject method is used to return the game object that is currently grabbing this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="30391:30473" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="30483:30826" ph="/// The GetSecondaryGrabbingObject method is used to return the game object that is currently being used to influ ... " />
+            <marker date="1499327792000" expanded="true" signature="30889:30985" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="30995:31222" ph="/// The GetUsingObject method is used to return the GameObject that is currently using this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="31273:31336" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="31346:31600" ph="/// The GetUsingScript method is used to return the InteractUse script that is currently using this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="31657:31709" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="31719:32331" ph="/// The IsValidInteractableController method is used to check to see if a controller is allowed to perform an int ... " />
+            <marker date="1499327792000" expanded="true" signature="32453:32835" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="32522:32579" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="32845:33127" ph="/// The ForceStopInteracting method forces the object to no longer be interacted with and will cause a controller ... " />
+            <marker date="1499327792000" expanded="true" signature="33178:33555" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33234:33369" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33434:33545" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33565:33741" ph="/// The ForceStopSecondaryGrabInteraction method forces the object to no longer be influenced by the second contr ... " />
+            <marker date="1499327792000" expanded="true" signature="33805:34044" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33925:34034" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="34054:34347" ph="/// The RegisterTeleporters method is used to find all objects that have a teleporter script and register the obj ... " />
+            <marker date="1499327792000" expanded="true" signature="34397:34480" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="34490:34647" ph="/// The UnregisterTeleporters method is used to unregister all teleporter events that are active on this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="34699:35005" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="34803:34995" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="35015:35138" ph="/// the StoreLocalScale method saves the current transform local scale values. ... " />
+            <marker date="1499327792000" expanded="true" signature="35184:35259" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="35269:35806" ph="/// The ToggleSnapDropZone method is used to set the state of whether the interactable object is in a Snap Drop Z ... " />
+            <marker date="1499327792000" expanded="true" signature="35897:36412" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="35973:36160" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="36177:36402" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="36422:36717" ph="/// The IsInSnapDropZone method determines whether the interactable object is currently snapped to a drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="36764:36826" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="36836:37210" ph="/// The SetSnapDropZoneHover method sets whether the interactable object is currently being hovered over a valid  ... " />
+            <marker date="1499327792000" expanded="true" signature="37303:38076" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37336:37658" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37425:37644" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37675:37998" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37763:37984" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="38086:38350" ph="/// The GetStoredSnapDropZone method returns the snap drop zone that the interactable object is currently snapped ... " />
+            <marker date="1499327792000" expanded="true" signature="38415:38474" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="38484:38773" ph="/// The IsDroppable method returns whether the object can be dropped or not in it's current situation. ... " />
+            <marker date="1499327792000" expanded="true" signature="38815:39192" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="38856:39156" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="39202:39630" ph="/// The IsSwappable method returns whether the object can be grabbed with one controller and then swapped to anot ... " />
+            <marker date="1499327792000" expanded="true" signature="39672:39798" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="39808:40159" ph="/// The PerformSecondaryAction method returns whether the object has a secondary action that can be performed whe ... " />
+            <marker date="1499327792000" expanded="true" signature="40212:40410" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="40420:40683" ph="/// The ResetIgnoredColliders method is used to clear any stored ignored colliders in case the `Ignored Colliders ... " />
+            <marker date="1499327792000" expanded="true" signature="40735:41668" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="40912:41613" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="40982:41599" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41165:41581" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41261:41559" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41366:41533" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41708:42097" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41828:41931" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41988:42087" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42140:42433" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42288:42353" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42477:42821" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42558:42672" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42705:42811" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42867:43194" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42949:43040" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43092:43184" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43235:43636" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43401:43487" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43539:43626" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43646:43905" ph="/// determines if this object is currently idle ... " />
+            <marker date="1499327792000" expanded="true" signature="43945:44028" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44073:44208" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44128:44198" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44260:44708" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44316:44436" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44483:44587" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44619:44698" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44764:45321" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44855:45311" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45048:45230" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45396:46174" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45501:46164" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45724:46013" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45813:45995" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46049:46150" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46236:46350" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46279:46340" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46407:46837" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46482:46827" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46625:46753" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46901:47096" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46977:47086" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47147:47377" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47258:47367" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47465:47933" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47514:47605" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47807:47923" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48023:48676" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48099:48666" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48371:48652" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48811:49295" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49068:49252" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49388:49841" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49464:49831" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49720:49817" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49893:50145" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50046:50135" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50225:50648" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50448:50638" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50759:51123" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51203:51719" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51535:51709" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51770:52151" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51836:51912" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51929:51992" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52047:52141" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52242:52406" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52292:52396" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52496:52903" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52643:52893" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52976:53332" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53130:53322" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53402:53811" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53449:53801" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53607:53787" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53666:53769" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53885:53995" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54054:54285" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54105:54157" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54344:54715" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54414:54705" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54564:54691" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54774:55185" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54941:55175" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55241:55552" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55351:55542" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55604:56521" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55663:56210" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56061:56169" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56269:56356" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56572:56896" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56619:56886" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56779:56872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6135">
+          <caret line="415" column="25" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="25" />
+          <folding>
+            <marker date="1499327792000" expanded="true" signature="56:56904" ph="{...}" />
+            <marker date="1499327792000" expanded="false" signature="69:264" ph="..." />
+            <marker date="1499327792000" expanded="true" signature="270:439" ph="/// Event Payload ... " />
+            <marker date="1499327792000" expanded="true" signature="485:542" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="548:725" ph="/// Event Payload ... " />
+            <marker date="1499327792000" expanded="true" signature="834:2049" ph="/// The Interactable Object script is attached to any game object that is required to be interacted with (e.g. vi ... " />
+            <marker date="1499327792000" expanded="true" signature="2182:56902" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="2197:2537" ph="/// Allowed controller type. ... " />
+            <marker date="1499327792000" expanded="true" signature="2575:2657" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="2667:3128" ph="/// The types of valid situations that the object can be released from grab. ... " />
+            <marker date="1499327792000" expanded="true" signature="3163:3263" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="7925:8029" ph="/// Emitted when another object touches the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="8117:8230" ph="/// Emitted when the other object stops touching the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="8320:8442" ph="/// Emitted when another object grabs the current object (e.g. a controller). ... " />
+            <marker date="1499327792000" expanded="true" signature="8530:8643" ph="/// Emitted when the other object stops grabbing the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="8733:8854" ph="/// Emitted when another object uses the current object (e.g. a controller). ... " />
+            <marker date="1499327792000" expanded="true" signature="8939:9049" ph="/// Emitted when the other object stops using the current object. ... " />
+            <marker date="1499327792000" expanded="true" signature="9136:9233" ph="/// Emitted when the object enters a snap drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9333:9430" ph="/// Emitted when the object exists a snap drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9529:9630" ph="/// Emitted when the object gets snapped to a drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9728:9833" ph="/// Emitted when the object gets unsnapped from a drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="9936:10059" ph="/// The current using state of the object. `0` not being used, `1` being used. ... " />
+            <marker date="1499327792000" expanded="true" signature="10130:10280" ph="/// isKinematic is a pass through to the `isKinematic` getter/setter on the object's rigidbody component. ... " />
+            <marker date="1499327792000" expanded="true" signature="10312:10732" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10338:10536" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10395:10493" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10552:10722" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="10609:10708" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12043:12194" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12104:12184" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12284:12439" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12347:12429" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12527:12678" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12588:12668" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12768:12923" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="12831:12913" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13008:13153" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13066:13143" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13240:13389" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13300:13379" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13489:13664" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13562:13654" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13763:13936" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="13835:13926" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14034:14205" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14105:14195" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14307:14486" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14382:14476" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14587:14725" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="14735:14955" ph="/// The IsTouched method is used to determine if the object is currently being touched. ... " />
+            <marker date="1499327792000" expanded="true" signature="14995:15063" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="15073:15455" ph="/// The IsGrabbed method is used to determine if the object is currently being grabbed. ... " />
+            <marker date="1499327792000" expanded="true" signature="15522:15744" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="15596:15686" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="15754:16122" ph="/// The IsUsing method is used to determine if the object is currently being used. ... " />
+            <marker date="1499327792000" expanded="true" signature="16184:16388" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="16249:16336" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="16398:16714" ph="/// The StartTouching method is called automatically when the object is touched initially. It is also a virtual m ... " />
+            <marker date="1499327792000" expanded="true" signature="17049:17195" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="17205:17521" ph="/// The StartTouching method is called automatically when the object is touched initially. It is also a virtual m ... " />
+            <marker date="1499327792000" expanded="true" signature="17612:18224" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="17799:18214" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="17947:18200" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="18234:18557" ph="/// The StopTouching method is called automatically when the object has stopped being touched. It is also a virtu ... " />
+            <marker date="1499327792000" expanded="true" signature="18892:19039" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="19049:19372" ph="/// The StopTouching method is called automatically when the object has stopped being touched. It is also a virtu ... " />
+            <marker date="1499327792000" expanded="true" signature="19463:19978" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="19710:19968" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="19988:20298" ph="/// The Grabbed method is called automatically when the object is grabbed initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="20614:20753" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="20763:21073" ph="/// The Grabbed method is called automatically when the object is grabbed initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="21157:21690" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="21377:21471" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="21488:21584" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="21700:22020" ph="/// The Ungrabbed method is called automatically when the object has stopped being grabbed. It is also a virtual  ... " />
+            <marker date="1499327792000" expanded="true" signature="22345:22488" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="22498:22818" ph="/// The Ungrabbed method is called automatically when the object has stopped being grabbed. It is also a virtual  ... " />
+            <marker date="1499327792000" expanded="true" signature="22905:23637" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="23222:23412" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="23429:23528" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="23647:23951" ph="/// The StartUsing method is called automatically when the object is used initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="24266:24401" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="24411:24715" ph="/// The StartUsing method is called automatically when the object is used initially. It is also a virtual method  ... " />
+            <marker date="1499327792000" expanded="true" signature="24798:25235" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="25025:25089" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="25245:25556" ph="/// The StopUsing method is called automatically when the object has stopped being used. It is also a virtual met ... " />
+            <marker date="1499327792000" expanded="true" signature="25871:26007" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="26017:26328" ph="/// The StopUsing method is called automatically when the object has stopped being used. It is also a virtual met ... " />
+            <marker date="1499327792000" expanded="true" signature="26411:26736" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="26746:27068" ph="/// The ToggleHighlight method is used to turn on or off the colour highlight of the object. ... " />
+            <marker date="1499327792000" expanded="true" signature="27125:27544" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27246:27534" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27304:27410" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27431:27520" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27554:27683" ph="/// The ResetHighlighter method is used to reset the currently attached highlighter. ... " />
+            <marker date="1499327792000" expanded="true" signature="27730:27867" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27775:27857" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="27877:28244" ph="/// The PauseCollisions method temporarily pauses all collisions on the object at grab time by removing the objec ... " />
+            <marker date="1499327792000" expanded="true" signature="28301:28593" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28339:28583" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28432:28517" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28603:28765" ph="/// The ZeroVelocity method resets the velocity and angular velocity to zero on the rigidbody attached to the obj ... " />
+            <marker date="1499327792000" expanded="true" signature="28808:29028" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="28857:29018" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29038:29194" ph="/// The SaveCurrentState method stores the existing object parent and the object's rigidbody kinematic setting. ... " />
+            <marker date="1499327792000" expanded="true" signature="29241:29683" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29307:29673" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29408:29499" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29543:29659" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="29693:29972" ph="/// The GetTouchingObjects method is used to return the collecetion of valid game objects that are currently touc ... " />
+            <marker date="1499327792000" expanded="true" signature="30033:30089" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="30099:30337" ph="/// The GetGrabbingObject method is used to return the game object that is currently grabbing this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="30391:30473" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="30483:30826" ph="/// The GetSecondaryGrabbingObject method is used to return the game object that is currently being used to influ ... " />
+            <marker date="1499327792000" expanded="true" signature="30889:30985" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="30995:31222" ph="/// The GetUsingObject method is used to return the GameObject that is currently using this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="31273:31336" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="31346:31600" ph="/// The GetUsingScript method is used to return the InteractUse script that is currently using this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="31657:31709" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="31719:32331" ph="/// The IsValidInteractableController method is used to check to see if a controller is allowed to perform an int ... " />
+            <marker date="1499327792000" expanded="true" signature="32453:32835" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="32522:32579" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="32845:33127" ph="/// The ForceStopInteracting method forces the object to no longer be interacted with and will cause a controller ... " />
+            <marker date="1499327792000" expanded="true" signature="33178:33555" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33234:33369" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33434:33545" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33565:33741" ph="/// The ForceStopSecondaryGrabInteraction method forces the object to no longer be influenced by the second contr ... " />
+            <marker date="1499327792000" expanded="true" signature="33805:34044" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="33925:34034" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="34054:34347" ph="/// The RegisterTeleporters method is used to find all objects that have a teleporter script and register the obj ... " />
+            <marker date="1499327792000" expanded="true" signature="34397:34480" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="34490:34647" ph="/// The UnregisterTeleporters method is used to unregister all teleporter events that are active on this object. ... " />
+            <marker date="1499327792000" expanded="true" signature="34699:35005" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="34803:34995" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="35015:35138" ph="/// the StoreLocalScale method saves the current transform local scale values. ... " />
+            <marker date="1499327792000" expanded="true" signature="35184:35259" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="35269:35806" ph="/// The ToggleSnapDropZone method is used to set the state of whether the interactable object is in a Snap Drop Z ... " />
+            <marker date="1499327792000" expanded="true" signature="35897:36412" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="35973:36160" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="36177:36402" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="36422:36717" ph="/// The IsInSnapDropZone method determines whether the interactable object is currently snapped to a drop zone. ... " />
+            <marker date="1499327792000" expanded="true" signature="36764:36826" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="36836:37210" ph="/// The SetSnapDropZoneHover method sets whether the interactable object is currently being hovered over a valid  ... " />
+            <marker date="1499327792000" expanded="true" signature="37303:38076" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37336:37658" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37425:37644" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37675:37998" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="37763:37984" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="38086:38350" ph="/// The GetStoredSnapDropZone method returns the snap drop zone that the interactable object is currently snapped ... " />
+            <marker date="1499327792000" expanded="true" signature="38415:38474" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="38484:38773" ph="/// The IsDroppable method returns whether the object can be dropped or not in it's current situation. ... " />
+            <marker date="1499327792000" expanded="true" signature="38815:39192" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="38856:39156" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="39202:39630" ph="/// The IsSwappable method returns whether the object can be grabbed with one controller and then swapped to anot ... " />
+            <marker date="1499327792000" expanded="true" signature="39672:39798" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="39808:40159" ph="/// The PerformSecondaryAction method returns whether the object has a secondary action that can be performed whe ... " />
+            <marker date="1499327792000" expanded="true" signature="40212:40410" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="40420:40683" ph="/// The ResetIgnoredColliders method is used to clear any stored ignored colliders in case the `Ignored Colliders ... " />
+            <marker date="1499327792000" expanded="true" signature="40735:41668" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="40912:41613" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="40982:41599" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41165:41581" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41261:41559" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41366:41533" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41708:42097" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41828:41931" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="41988:42087" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42140:42433" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42288:42353" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42477:42821" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42558:42672" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42705:42811" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42867:43194" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="42949:43040" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43092:43184" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43235:43636" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43401:43487" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43539:43626" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="43646:43905" ph="/// determines if this object is currently idle ... " />
+            <marker date="1499327792000" expanded="true" signature="43945:44028" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44073:44208" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44128:44198" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44260:44708" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44316:44436" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44483:44587" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44619:44698" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44764:45321" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="44855:45311" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45048:45230" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45396:46174" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45501:46164" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45724:46013" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="45813:45995" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46049:46150" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46236:46350" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46279:46340" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46407:46837" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46482:46827" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46625:46753" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46901:47096" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="46977:47086" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47147:47377" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47258:47367" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47465:47933" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47514:47605" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="47807:47923" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48023:48676" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48099:48666" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48371:48652" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="48811:49295" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49068:49252" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49388:49841" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49464:49831" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49720:49817" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="49893:50145" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50046:50135" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50225:50648" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50448:50638" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="50759:51123" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51203:51719" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51535:51709" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51770:52151" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51836:51912" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="51929:51992" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52047:52141" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52242:52406" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52292:52396" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52496:52903" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52643:52893" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="52976:53332" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53130:53322" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53402:53811" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53449:53801" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53607:53787" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53666:53769" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="53885:53995" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54054:54285" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54105:54157" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54344:54715" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54414:54705" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54564:54691" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54774:55185" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="54941:55175" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55241:55552" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55351:55542" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55604:56521" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="55663:56210" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56061:56169" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56269:56356" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56572:56896" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56619:56886" ph="{...}" />
+            <marker date="1499327792000" expanded="true" signature="56779:56872" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VRTK/Scripts/Interactions/VRTK_InteractGrab.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="177" column="33" selection-start-line="177" selection-start-column="33" selection-end-line="177" selection-end-column="33" />
+          <folding>
+            <marker date="1499327777000" expanded="false" signature="63:105" ph="..." />
+            <marker date="1499327777000" expanded="true" signature="111:2226" ph="/// The Interact Grab script is attached to a Controller object and requires the `VRTK_ControllerEvents` script t ... " />
+            <marker date="1499327777000" expanded="true" signature="2347:28321" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="4454:4543" ph="/// Emitted when the grab button is pressed. ... " />
+            <marker date="1499327777000" expanded="true" signature="4626:4716" ph="/// Emitted when the grab button is released. ... " />
+            <marker date="1499327777000" expanded="true" signature="4801:4899" ph="/// Emitted when a grab of a valid object is started. ... " />
+            <marker date="1499327777000" expanded="true" signature="4995:5083" ph="/// Emitted when a valid object is grabbed. ... " />
+            <marker date="1499327777000" expanded="true" signature="5174:5274" ph="/// Emitted when a ungrab of a valid object is started. ... " />
+            <marker date="1499327777000" expanded="true" signature="5372:5480" ph="/// Emitted when a valid object is released from being grabbed. ... " />
+            <marker date="1499327777000" expanded="true" signature="6286:6481" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6312:6471" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6577:6752" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6650:6742" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6843:7008" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="6911:6998" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7106:7285" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7181:7275" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7378:7547" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7448:7537" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7630:7765" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7683:7755" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7849:7986" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7903:7976" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="7996:8236" ph="/// The IsGrabButtonPressed method determines whether the current grab alias button is being pressed down. ... " />
+            <marker date="1499327777000" expanded="true" signature="8286:8338" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="8348:8713" ph="/// The ForceRelease method will force the controller to stop grabbing the currently grabbed object. ... " />
+            <marker date="1499327777000" expanded="true" signature="8796:8878" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="8888:9069" ph="/// The AttemptGrab method will attempt to grab the currently touched object without needing to press the grab bu ... " />
+            <marker date="1499327777000" expanded="true" signature="9111:9164" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="9174:9412" ph="/// The GetGrabbedObject method returns the current object being grabbed by the controller. ... " />
+            <marker date="1499327777000" expanded="true" signature="9465:9519" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="9559:10256" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="9915:10161" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10299:10636" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10475:10586" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10680:11230" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="10754:10916" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11109:11220" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11274:11381" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11422:11604" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11708:11768" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11840:12430" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="11899:12135" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12184:12420" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12538:13039" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12582:13029" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="12846:13015" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13149:13632" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13193:13622" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13439:13608" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13695:14640" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="13874:14202" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="14359:14630" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="14698:15366" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="14758:15262" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15043:15248" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15279:15356" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15421:15975" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15481:15965" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15742:15831" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="15852:15951" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="16034:16728" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="16228:16718" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="16845:17744" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17089:17283" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17328:17734" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17480:17720" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="17810:18096" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18163:18437" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18202:18401" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18533:18823" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18630:18712" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18729:18813" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18896:19520" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="18945:19352" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19177:19338" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19382:19510" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19572:20202" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="19716:20192" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="20296:21020" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="20432:20702" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="20573:20664" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21116:21550" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21252:21446" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21616:21879" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21694:21823" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="21965:23006" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="22039:22879" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="22335:22865" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="22404:22556" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23065:23343" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23243:23299" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23396:23576" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23502:23566" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23637:23981" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="23686:23946" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24053:24412" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24124:24402" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24286:24388" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24464:24775" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24572:24650" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24667:24765" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="24851:25088" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25180:25384" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25460:26159" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25816:26110" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="25914:26096" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26204:26522" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26253:26486" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26577:26762" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26681:26752" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="26856:27002" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27099:27250" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27314:27453" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27371:27443" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27514:27884" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27622:27874" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27750:27860" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="27940:28315" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="28002:28305" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="28066:28291" ph="{...}" />
+            <marker date="1499327777000" expanded="true" signature="28177:28273" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/StethDistance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <marker date="1532035558903" expanded="false" signature="6:90" ph="..." />
+            <marker date="1532035558903" expanded="true" signature="135:1288" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="399:406" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="461:928" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="608:921" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="628:767" ph="/* Debug.Log(actualDistance); ... */" />
+            <marker date="1532035558903" expanded="true" signature="832:893" ph="{...}" />
+            <marker date="1532035558903" expanded="true" signature="936:1280" ph="/* function restrinctPos(posStart, Vector2, newPos:Vector2) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TransformEx/Scripts/MeshInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
