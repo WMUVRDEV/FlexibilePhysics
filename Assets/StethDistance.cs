@@ -17,6 +17,7 @@ public class StethDistance : MonoBehaviour {
 	public VRTK_InteractGrab grabber;
 
 	public GameObject grabbedObject;
+    public GameObject rightController;
 	
 	public float jumpBackAmount;
 	
@@ -62,7 +63,10 @@ public class StethDistance : MonoBehaviour {
 
     }
 
-
+    public void CheckController()
+    {
+        Debug.Log(grabbedObject.GetComponent<VRTK_InteractableObject>().GetGrabbingObject().name);
+    }
 
 
    // function restrinctPos(posStart, Vector2, newPos:Vector2)
